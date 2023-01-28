@@ -12,6 +12,7 @@
 ## [Marine Heatwave Monitoring of the Northeast Pacific](https://github.com/BIO-RSG/Pacific_SST_NRT_Monitoring) 
 
 * Satellite sea-surface temperature maps, anomalies, and buoy time series of the Northeast Pacific for tracking marine heatwaves
+
 <a target="_blank" href="images/screencap_sst_nrt.png">
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="250"/>
 </a>
@@ -19,6 +20,7 @@
 ## [Sea-surface temperature and chlorophyll-a concentration time series](https://bio-rsg.github.io/SST_Chla_Report.html) 
 
 * Satellite time series from Pacific Marine Protected Areas and regions of interest spanning 1981-present
+
 <a target="_blank" href="images/screencap_sst_chla.png">
 <img src="images/screencap_sst_chla.png" alt="Screencap of sea surface temperature and chlorophyll-a time series" width="250"/>
 </a>
