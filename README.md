@@ -1,6 +1,8 @@
 # Current Data Pages
 ~ This page is under development. More information will be listed soon ~
 
+Contact: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
+
 ## [Deep Water Properties of B.C. Inlets](https://ios-osd-dpg.github.io/bc-inlets/)
 
 *  Deep water properties and monitoring data for major inlets of British Columbia
