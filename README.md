@@ -17,7 +17,7 @@
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="350"/>
 </a>
 
-## [Sea-surface temperature and chlorophyll-a concentration time series](https://bio-rsg.github.io/SST_Chla_Report.html) 
+## [Sea-surface Temperature and Chlorophyll-a Concentration Time Series](https://bio-rsg.github.io/SST_Chla_Report.html) 
 
 * Satellite time series from Pacific Marine Protected Areas and regions of interest spanning 1981-present
 
