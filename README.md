@@ -1,7 +1,6 @@
 # Current Data Pages
 ~ This page is under development. More information will be listed soon ~
 
-Contact: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
 
 ## [Deep Water Properties of B.C. Inlets](https://ios-osd-dpg.github.io/bc-inlets/)
 
@@ -38,3 +37,6 @@ Contact: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
 * [Seasonal Climatologies](https://open.canada.ca/data/en/dataset/b2992072-0dca-452a-ac3e-b62176362bf4) of the Northeast Pacific Ocean (1980-2010)
 * [Seasonal Climatologies](https://open.canada.ca/data/en/dataset/d2f6e4fa-509f-4122-8e3c-95c388ec411c) of the Canadian Pacific Exclusive Economic Zone (1980-2010)
 * [British Columbia Lightstation](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884) Sea-surface Temperature and Salinity Data (Pacific) 1914-present
+
+
+Contact: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
