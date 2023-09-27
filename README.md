@@ -1,6 +1,14 @@
-# Current Data Pages
-~ This page is under development. More information will be listed soon ~
+This page is under development. More information will be listed soon!
 
+# Current Data Pages
+
+## [BC Lightstation Sea-Surface Temperature](https://ios-osd-dpg.github.io/bc_lightstation_sst/)
+
+* Observational data, trends and climatologies of sea-surface temperature and salinity from BC Lighstations
+
+<a target="_blank" href="images/Lightstation_SST_Clim.png">
+<img src="images/Lightstation_SST_Clim.png" alt="Monthly Climatology of sea surface temperature collected at BC Lightstations" width="350"/>
+</a>
 
 ## [Deep Water Properties of B.C. Inlets](https://ios-osd-dpg.github.io/bc-inlets/)
 
