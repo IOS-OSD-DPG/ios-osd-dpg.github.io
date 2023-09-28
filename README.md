@@ -4,7 +4,7 @@ This page is under development. More information will be listed soon!
 
 ## [B.C. Lightstation Sea-Surface Temperature](https://ios-osd-dpg.github.io/bc_lightstation_sst/)
 
-* Observational data, trends and climatologies of SST and salinity from B.C. Lighstations. Daily observations extend as far back as 1914.
+* Observational data, trends and climatologies of SST and salinity from B.C. Lightstations. Daily observations extend as far back as 1914.
 
 <a target="_blank" href="images/Lightstation_SST_Clim.png">
 <img src="images/Lightstation_SST_Clim.png" alt="Monthly Climatology of sea surface temperature collected at BC Lightstations" width="350"/>
