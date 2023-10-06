@@ -1,3 +1,20 @@
 theme: minima #jekyll-theme-slate
 show_downloads: false
-title: IOS-OSD Data Products Group Page
+title: IOS-OSD Data Products Group
+author: Data Products Team, Ocean Sciences Division
+
+github_username: ios-osd-dpg
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - README.md
+  - pages/published_datasets.md
+
+include:
+  - pages
+
+exclude: 
+  - .gitignore
