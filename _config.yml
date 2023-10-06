@@ -1,7 +1,9 @@
 theme: minima #jekyll-theme-slate
 show_downloads: false
 title: IOS-OSD Data Products Group
-author: Data Products Team, Ocean Sciences Division
+author: 
+  name: Data Products Team, Ocean Sciences Division
+  email: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
 
 github_username: ios-osd-dpg
 
