@@ -34,9 +34,3 @@ This page is under development. More information will be listed soon!
 <img src="images/screencap_sst_chla.png" alt="Screencap of sea surface temperature and chlorophyll-a time series" width="350"/>
 </a>
 
-### Long-term Monitoring Data
-
-* [British Columbia Lightstation](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884) Sea-Surface Temperature and Salinity Data (Pacific) 1914-present
-
-
-##### Contact: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
