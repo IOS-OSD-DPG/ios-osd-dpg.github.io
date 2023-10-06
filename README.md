@@ -11,7 +11,7 @@ This page is under development. More information will be listed soon!
 
 ## `New!📣` [B.C. Lightstation Sea-Surface Temperature](https://ios-osd-dpg.github.io/bc_lightstation_sst/)
 
-* Observational data, trends and climatologies of SST and salinity from B.C. Lightstations. Daily observations extend as far back as 1914.
+* Observational data, trends and climatologies of SST and salinity from [B.C. Lightstations](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884). Daily observations extend as far back as 1914.
 
 <a target="_blank" href="images/Lightstation_SST_Clim.png">
 <img src="images/Lightstation_SST_Clim.png" alt="Monthly Climatology of sea surface temperature collected at BC Lightstations" width="300"/>
@@ -19,7 +19,7 @@ This page is under development. More information will be listed soon!
 
 ## [Deep Water Properties of B.C. Inlets](https://ios-osd-dpg.github.io/bc-inlets/)
 
-*  Deep water properties, physical descriptions, and monitoring data for major inlets of British Columbia. Summaries include monthly and annual statistics and time series, and temporal availability of samples back to the 1930's. 
+*  Deep water properties, physical descriptions, and monitoring data for major inlets of British Columbia from the [Water Properties database](https://www.waterproperties.ca/), [CIOOS Pacific](https://data.cioospacific.ca/erddap/index.html) and [Hakai Institute](https://catalogue.hakai.org/erddap/index.html). Summaries include monthly and annual statistics and time series of samples back to the 1930's.
 
 <a target="_blank" href="images/all-inlets-map.png">
 <img src="images/all-inlets-map.png" alt="Map of B.C. inlets on deep water properties monitoring page" width="300"/>
