@@ -25,9 +25,9 @@ This page is under development. More information will be listed soon!
 <img src="images/all-inlets-map.png" alt="Map of B.C. inlets on deep water properties monitoring page" width="300"/>
 </a>
 
-## `New!📣` [Institute of Ocean Sciences OSD Mooring Data](https://ios-osd-dpg.github.io/mooring_data_page/) 
+## `New!📣` [Ocean Sciences Division Mooring Data](https://ios-osd-dpg.github.io/mooring_data_page/) 
 
-* Time series of temperature and salinity from the Ocean Sciences Division mooring stations on the west coast of British Columbia.
+* Time series of temperature and salinity from mooring stations on the west coast of British Columbia.
 
 <a target="_blank" href="images/Moorings_snapshot.png">
 <img src="images/Moorings_snapshot.png" alt="Screencap of mooring data plot" width="300"/>
@@ -41,9 +41,9 @@ This page is under development. More information will be listed soon!
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="300"/>
 </a>
 
-## [Sea-Surface Temperature and Chlorophyll-a Concentration Time Series](https://ios-osd-dpg.github.io/SST_Chla_Report.html)
+## [Satellite Sea-Surface Temperature and Chlorophyll-a Concentration Time Series](https://ios-osd-dpg.github.io/SST_Chla_Report.html)
 
-* Satellite time series from Pacific Marine Protected Areas and regions of interest, spanning 1981-2022.
+* Satellite time series of surface waters from Pacific Marine Protected Areas and regions of interest, spanning 1981-2022.
 
 <a target="_blank" href="images/screencap_sst_chla.png">
 <img src="images/screencap_sst_chla.png" alt="Screencap of sea surface temperature and chlorophyll-a time series" width="300"/>
