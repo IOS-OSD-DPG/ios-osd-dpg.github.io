@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Current Data Pages
+title: Welcome
 list_title: Current Data Pages
 ---
 
