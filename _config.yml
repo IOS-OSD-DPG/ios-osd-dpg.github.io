@@ -1,14 +1,22 @@
-theme: minima #jekyll-theme-slate
-show_downloads: false
 title: IOS-OSD Data Products Group
 author: 
   name: Data Products Team, Ocean Sciences Division
   email: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
 
+theme: minima #jekyll-theme-slate
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+#show_downloads: false
+
 github_username: ios-osd-dpg
 
 minima:
   date_format: "%Y-%m-%d"
+  social_links:
+     - { platform: github,         user_url: "https://github.com/ios-osd-dpg" }
 
 # Minima: custom header links
 header_pages:
