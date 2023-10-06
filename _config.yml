@@ -7,9 +7,12 @@ list_title: Current Data Pages
 
 
 title: IOS-OSD Data Products Group
-author: 
-  name: Data Products Team, Ocean Sciences Division
-  email: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
+author: Data Products Team, Ocean Sciences Division
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  For questions or comments please contact us at: [DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca](mailto:DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca)
 
 theme: minima #jekyll-theme-slate
 
