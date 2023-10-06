@@ -13,8 +13,11 @@ This page is under development. More information will be listed soon!
 
 * Observational data, trends and climatologies of SST and salinity from [B.C. Lightstations](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884). Daily observations extend as far back as 1914.
 
+<a target="_blank" href="images/lightstation_map.png">
+<img src="images/lightstation_map.png" alt="Monthly Climatology of sea surface temperature collected at BC Lightstations" width="300"/>
+</a>
 <a target="_blank" href="images/Lightstation_SST_Clim.png">
-<img src="images/Lightstation_SST_Clim.png" alt="Monthly Climatology of sea surface temperature collected at BC Lightstations" width="300"/>
+<img src="images/Lightstation_SST_Clim.png" alt="B.C. Lightstations Map" width="300"/>
 </a>
 
 ## `New!📣` [Ocean Sciences Division Mooring Data](https://ios-osd-dpg.github.io/mooring_data_page/) 
