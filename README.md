@@ -1,3 +1,10 @@
+---
+permalink: /
+layout: home
+title: Current Data Pages
+list_title: Current Data Pages
+---
+
 This page is under development. More information will be listed soon!
 
 # Current Data Pages
