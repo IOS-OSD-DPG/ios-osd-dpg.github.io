@@ -4,7 +4,7 @@ author: Data Products Team, Ocean Sciences Division
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  For questions or comments please contact us at: <a href = "mailto: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca">DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca</a>
+  For questions or comments please contact us at: DFO.PAC.SCI.IOSData-DonneesISO.SCI.PAC.MPO@dfo-mpo.gc.ca
 
 theme: minima #jekyll-theme-slate
 
