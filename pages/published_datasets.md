@@ -1,5 +1,8 @@
-
-# Published Datasets:
+---
+permalink: /published_datasets
+layout: page
+title: Published Datasets
+---
 
 ### Climatology Layers
 
