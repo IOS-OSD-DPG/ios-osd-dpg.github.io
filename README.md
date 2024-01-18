@@ -6,7 +6,7 @@ list_title: Current Data Pages
 ---
 
 This page is under development. More information will be listed soon!
-To find our published data, please see the "Published Datasets" tab above.
+To find a list of public datasets and publications, please see the "Published Reports and Datasets" tab above.
 
 # Current Data Pages
 
