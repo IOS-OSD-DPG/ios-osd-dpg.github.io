@@ -4,6 +4,10 @@ layout: page
 title: Published Datasets
 ---
 
+### Publications
+
+* [H. Hourston, D. Wan and L. Guan: **New tools for ADCP processing.**](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf) 2021. Canadian Technical Report of Hydrography and Ocean Scences. 336: vi + 36 p.
+
 ### Climatology Layers
 
 #### Satellite Chlorophyll-a Concentration: 
