@@ -6,7 +6,7 @@ title: Published Reports and Datasets
 
 ### Publications
 
-* [H. Hourston, D. Wan and L. Guan: **New tools for ADCP processing.**](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf) 2021. Canadian Technical Report of Hydrography and Ocean Scences. 336: vi + 36 p.
+* [**New tools for ADCP processing.**](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf)  H. Hourston, D. Wan and L. Guan, 2021. Canadian Technical Report of Hydrography and Ocean Scences. 336: vi + 36 p.
 
 ### Climatology Layers
 
