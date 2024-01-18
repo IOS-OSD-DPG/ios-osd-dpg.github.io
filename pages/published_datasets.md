@@ -1,7 +1,7 @@
 ---
 permalink: /published_datasets
 layout: page
-title: Published Datasets
+title: Published Reports and Datasets
 ---
 
 ### Publications
