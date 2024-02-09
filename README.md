@@ -10,7 +10,15 @@ To find a list of public datasets and publications, please see the "Published Re
 
 # Current Data Pages
 
-## `New!📣` [B.C. Lightstation Sea-Surface Temperature](https://ios-osd-dpg.github.io/bc_lightstation_sst/)
+## `New!📣` [Line P Monitoring](https://ios-osd-dpg.github.io/Line_P_Monitoring_Page/)
+
+* Plots from stations of the [Line P](https://www.dfo-mpo.gc.ca/science/data-donnees/line-p/index-eng.html) long-term monitoring program.
+
+<a target="_blank" href="images/line-p_page.PNG">
+<img src="images/line-p_page.PNG" alt="Annual average oxygen concetration at station P4" width="350"/>
+</a>
+
+## [B.C. Lightstation Sea-Surface Temperature](https://ios-osd-dpg.github.io/bc_lightstation_sst/)
 
 * Observational data, trends and climatologies of SST and salinity from [B.C. Lightstations](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884). Daily observations extend as far back as 1914.
 
@@ -21,7 +29,7 @@ To find a list of public datasets and publications, please see the "Published Re
 <img src="images/Lightstation_SST_Clim.png" alt="B.C. Lightstations Map" width="300"/>
 </a>
 
-## `New!📣` [Ocean Sciences Division Mooring Data](https://ios-osd-dpg.github.io/mooring_data_page/) 
+## [Ocean Sciences Division Mooring Data](https://ios-osd-dpg.github.io/mooring_data_page/) 
 
 * Time series of temperature and salinity from mooring stations on the west coast of British Columbia.
 
