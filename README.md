@@ -10,9 +10,9 @@ To find a list of public datasets and publications, please see the "Published Re
 
 # Current Data Pages
 
-## `New!📣` [Line P Monitoring](https://ios-osd-dpg.github.io/Line_P_Monitoring_Page/)
+## `New!📣` [Line P Dissolved Oxygen Monitoring](https://ios-osd-dpg.github.io/oxygen_monitoring_page/)
 
-* Plots from stations of the [Line P](https://www.dfo-mpo.gc.ca/science/data-donnees/line-p/index-eng.html) long-term monitoring program.
+* Dissolved oxygen plots from stations of the [Line P](https://www.dfo-mpo.gc.ca/science/data-donnees/line-p/index-eng.html) long-term monitoring program.
 
 <a target="_blank" href="images/line-p_page.PNG">
 <img src="images/line-p_page.PNG" alt="Annual average oxygen concetration at station P4" width="350"/>
