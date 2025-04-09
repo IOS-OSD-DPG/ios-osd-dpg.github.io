@@ -6,7 +6,8 @@ title: Published Reports and Datasets
 
 ### Publications
 
-* [**New tools for ADCP processing.**](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf)  H. Hourston, D. Wan and L. Guan, 2021. Canadian Technical Report of Hydrography and Ocean Scences. 336: vi + 36 p.
+* `New!📣`[**A sea surface temperature product for monitoring Marine Heatwaves in the Northeast Pacific.**](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41282437.pdf) A. Hilborn, L. Guan, D. Wan and A. Peña, 2025. Canadian Technical Report of Hydrography and Ocean Sciences. 394: v + 23 p.
+* [**New tools for ADCP processing.**](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf)  H. Hourston, D. Wan and L. Guan, 2021. Canadian Technical Report of Hydrography and Ocean Sciences. 336: vi + 36 p.
 
 ### Climatology Layers
 
