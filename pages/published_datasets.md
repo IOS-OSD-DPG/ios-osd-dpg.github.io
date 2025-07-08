@@ -9,6 +9,10 @@ title: Published Reports and Datasets
 * `New!📣`[**A sea surface temperature product for monitoring Marine Heatwaves in the Northeast Pacific.**](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41282437.pdf) A. Hilborn, L. Guan, D. Wan and A. Peña, 2025. Canadian Technical Report of Hydrography and Ocean Sciences. 394: v + 23 p.
 * [**New tools for ADCP processing.**](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf)  H. Hourston, D. Wan and L. Guan, 2021. Canadian Technical Report of Hydrography and Ocean Sciences. 336: vi + 36 p.
 
+### Code
+
+* [**`ios-shell`**](https://github.com/ios-OSD-DPG/ios-shell), a python package to parse "IOS Shell" format files found in the Water Properties database
+
 ### Datasets
 
 A few of the layers we have published are listed below. Some of the datasets listed here can also be found in the following online locations:
