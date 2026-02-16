@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Current Data Pages",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "This page is under development. More information will be listed soon! To find a list of public datasets and publications, please see the “Published Reports and Datasets” tab above."
   },
   {
     "objectID": "index.html#quarto",
@@ -26,5 +26,47 @@
     "title": "Published Reports and Datasets",
     "section": "",
     "text": "Publications\n\nNew!📣A sea surface temperature product for monitoring Marine Heatwaves in the Northeast Pacific. A. Hilborn, L. Guan, D. Wan and A. Peña, 2025. Canadian Technical Report of Hydrography and Ocean Sciences. 394: v + 23 p.\nNew tools for ADCP processing. H. Hourston, D. Wan and L. Guan, 2021. Canadian Technical Report of Hydrography and Ocean Sciences. 336: vi + 36 p.\n\n\n\nCode\n\nios-shell, a python package to parse “IOS Shell” format files found in the Water Properties database\n\n\n\nDatasets\nA few of the layers we have published are listed below. Some of the datasets listed here can also be found in the following online locations:\n\nCanada Marine Planning Atlas\nSalish Sea Initiative\n\n\nClimatologies\n\nSatellite Chlorophyll-a Concentration:\n\nChlorophyll-a Concentration Monthly Climatology of the Pacific Exclusive Economic Zone, 2003-2020 (1 km and 4km spatial resolution, MODIS-Aqua)\n\n\n\nSatellite Sea Surface Temperature:\n\nSea Surface Temperature Monthly Climatology of the Pacific Exclusive Economic Zone, 2003-2020 (1 km, MODIS-Aqua)\nSea Surface Temperature Monthly Climatology of the Pacific Exclusive Economic Zone, 1981-2010 (4 km, AVHRR)\nSea Surface Temperature Monthly Climatology of the Pacific Exclusive Economic Zone, 1990-2020 (4 km, AVHRR)\n\n\n\nTemperature, Salinity and Sigma-t\n\nSeasonal Climatologies of the Northeast Pacific Ocean (1980-2010)\nSeasonal Climatologies of the Canadian Pacific Exclusive Economic Zone (1980-2010)\n\n\n\n\nLong-term Monitoring Data\n\nBritish Columbia Lightstation Sea-Surface Temperature and Salinity Data (Pacific) 1914-present\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#new-line-p-dissolved-oxygen-monitoring",
+    "href": "index.html#new-line-p-dissolved-oxygen-monitoring",
+    "title": "Current Data Pages",
+    "section": "New!📣 Line P Dissolved Oxygen Monitoring",
+    "text": "New!📣 Line P Dissolved Oxygen Monitoring\n\nDissolved oxygen plots from stations of the Line P long-term monitoring program."
+  },
+  {
+    "objectID": "index.html#b.c.-lightstation-sea-surface-temperature",
+    "href": "index.html#b.c.-lightstation-sea-surface-temperature",
+    "title": "Current Data Pages",
+    "section": "B.C. Lightstation Sea-Surface Temperature",
+    "text": "B.C. Lightstation Sea-Surface Temperature\n\nObservational data, trends and climatologies of SST and salinity from B.C. Lightstations. Daily observations extend as far back as 1914."
+  },
+  {
+    "objectID": "index.html#ocean-sciences-division-mooring-data",
+    "href": "index.html#ocean-sciences-division-mooring-data",
+    "title": "Current Data Pages",
+    "section": "Ocean Sciences Division Mooring Data",
+    "text": "Ocean Sciences Division Mooring Data\n\nTime series of temperature and salinity from mooring stations on the west coast of British Columbia."
+  },
+  {
+    "objectID": "index.html#marine-heatwave-monitoring-of-the-northeast-pacific",
+    "href": "index.html#marine-heatwave-monitoring-of-the-northeast-pacific",
+    "title": "Current Data Pages",
+    "section": "Marine Heatwave Monitoring of the Northeast Pacific",
+    "text": "Marine Heatwave Monitoring of the Northeast Pacific\n\nSatellite SST maps, anomalies, and buoy time series of the Northeast Pacific for tracking marine heatwaves."
+  },
+  {
+    "objectID": "index.html#deep-water-properties-of-b.c.-inlets",
+    "href": "index.html#deep-water-properties-of-b.c.-inlets",
+    "title": "Current Data Pages",
+    "section": "Deep Water Properties of B.C. Inlets",
+    "text": "Deep Water Properties of B.C. Inlets\n\nDeep water properties, physical descriptions, and monitoring data for major inlets of British Columbia from the Water Properties database, CIOOS Pacific and Hakai Institute. Summaries include monthly and annual statistics and time series of samples back to the 1930’s."
+  },
+  {
+    "objectID": "index.html#satellite-sea-surface-temperature-and-chlorophyll-a-concentration-time-series",
+    "href": "index.html#satellite-sea-surface-temperature-and-chlorophyll-a-concentration-time-series",
+    "title": "Current Data Pages",
+    "section": "Satellite Sea-Surface Temperature and Chlorophyll-a Concentration Time Series",
+    "text": "Satellite Sea-Surface Temperature and Chlorophyll-a Concentration Time Series\n\nSatellite time series of surface waters from Pacific Marine Protected Areas and regions of interest, spanning 1981-2022."
   }
 ]
