@@ -1,0 +1,33 @@
+  
+- title: Satellite sea surface temperature and chlorophyll-a in the Northeast Pacific
+  path: https://ios-osd-dpg.github.io/Pacific_Satellite_Monitoring/
+  image: figures/screencap_chla_sst.png
+  description: Satellite chlorophyll-a and SST of Marine Protected Areas and regions of interest on the BC coast.
+
+- title: Marine heatwave monitoring of the Northeast Pacific Ocean
+  path: https://ios-osd-dpg.github.io/Pacific_SST_Monitoring_Site/
+  image: figures/screencap_sst_nrt.png
+  description: Satellite SST maps, anomalies, and buoy time series of surface temperature in the Northeast Pacific for tracking marine heatwaves.
+  
+- title: Line P dissolved oxygen monitoring
+  path: https://ios-osd-dpg.github.io/oxygen_monitoring_page/
+  image: figures/line-p_page.PNG
+  description: Dissolved oxygen plots from stations of the [Line P](https://www.dfo-mpo.gc.ca/science/data-donnees/line-p/index-eng.html) long-term monitoring program.
+  # categories: [Line P, Dissolved oxygen]
+  
+- title: BC lightstation sea-surface temperature
+  path: https://ios-osd-dpg.github.io/bc_lightstation_sst/
+  image: figures/Lightstation_SST_Clim.png
+  description: Observational data, trends and climatologies of ocean temperature measured at [B.C. Lightstations](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884). Daily observations extend as far back as 1914.
+  # categories: [Lightstations, Temperature]
+  
+- title: Ocean Sciences Division mooring data
+  path: https://ios-osd-dpg.github.io/mooring_data_page/
+  image: figures/Moorings_snapshot.png
+  description: Time series of temperature and salinity from mooring stations on the west coast of British Columbia.
+
+- title: Deep water properties of BC inlets
+  path: https://ios-osd-dpg.github.io/bc-inlets/
+  image: figures/all-inlets-map.png
+  description: Deep water properties, physical descriptions, and monitoring data for major inlets of British Columbia from the [Water Properties database](https://www.waterproperties.ca/), [CIOOS Pacific](https://data.cioospacific.ca/erddap/index.html) and the [Hakai Institute](https://catalogue.hakai.org/erddap/index.html). Summaries include monthly and annual statistics and time series of samples back to the 1930’s.
+  

@@ -1,40 +1,45 @@
 ---
 permalink: /published_datasets
 layout: page
-title: Published Reports and Datasets
+title: Data and Publications
+editor:
+  mode: source
 ---
 
+A great deal of our work is data correction and upload for the Water Properties Database. Much more information, data, and program details can be found on the [Water Properties website](https://www.waterproperties.ca) (login required). The data archive can be searched accessed [at this link](https://www.waterproperties.ca/data).
 
-### Publications
+### Code and packages
 
-* `New!📣`[**A sea surface temperature product for monitoring Marine Heatwaves in the Northeast Pacific.**](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41282437.pdf) A. Hilborn, L. Guan, D. Wan and A. Peña, 2025. Canadian Technical Report of Hydrography and Ocean Sciences. 394: v + 23 p.
-* [**New tools for ADCP processing.**](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf)  H. Hourston, D. Wan and L. Guan, 2021. Canadian Technical Report of Hydrography and Ocean Sciences. 336: vi + 36 p.
+A number of processing packages are currently under development, and will be shared here as they come available:
 
-### Code
+-   [**`ios-shell`**](https://github.com/ios-OSD-DPG/ios-shell), a python package to easily read and parse files found in the Water Properties database ("IOS shell" format).
+-   [**`oceancolouR`**](https://github.com/BIO-RSG/oceancolouR), an R package with useful functions for processing and analysis of satellite ocean colour remote sensing data.
+-   We also contribute code to the [**`pacea`**](https://github.com/pbs-assess/pacea) R package, which includes many more Pacific datasets for ecosystem monitoring and fisheries management🐟
 
-* [**`ios-shell`**](https://github.com/ios-OSD-DPG/ios-shell), a python package to parse "IOS Shell" format files found in the Water Properties database
+### Recent publications and contributions
+
+-   `New!📣` [Biophysical and Ecological Overview of the Kitkatla Inlet Network Zones.](https://publications.gc.ca/collections/collection_2026/mpo-dfo/fs97-6/Fs97-6-3668-eng.pdf) K.H. Bannar-Martin, A. Vanderjagt, C.E. Bluteau, A.D. Liu, **A. Hilborn**, B. Proudfoot, F. Beaty, D. Denley, C.D. Stacey, A. Sastri, J. Herbert, and E. Rubidge. 2026. Can. Tech. Rep. Fish. Aquat. Sci. 3668: xvii + 345 p. doi:10.60825/2y44-vp69
+-   `New!📣` [Biophysical and Ecological Overview of the Caamaño Sound and Douglas Fjord System Network Zones.](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41318274.pdf) A. Liu, K. Bannar-Martin, C.E. Bluteau, **A. Hilborn**, K. Clifton, L. Burke, B. Wright, J. Wray, E. Keen, G. Baer, J. Pilkington, L. Nichol, D. Denley, C.D. Stacey, J. Herbert, A. Vanderjagt, C. Robb, and E. Rubidge. 2026. Can. Tech. Rep. Fish. Aquat. Sci. 3664:xviii + 374 p. doi:10.60825/NCTJ-N651
+-   `New!📣` [Biophysical and Ecological Overview of the ƛ̓ušiiʔaaʔaq (Swiftsure Bank) Area.](https://publications.gc.ca/collections/collection_2025/mpo-dfo/fs97-6/Fs97-6-3735-eng.pdf) K.H. Bannar-Martin, J. Yakimishyn, B. Proudfoot, H. Booker, A. Vos, M. Wright, J. Boldt, L. Burke, K. Douglas, C. Favaro, C. Fu, H. Gartner, A. Hall, **A. Hilborn**, E. Keppel, V. Lam, Z. Li, E. Lok, K. Neary, C. Nordstrom, M. Ogilvie, T. Ross, A. Sastri, L. Spaven, Y. Zharikov, and C.K. Robb. 2025. Can. Tech. Rep. Fish. Aquat. Sci. 3735:xxiii + 459 p. doi:10.60825/6w6a-8t10
+-   `New!📣` [Biophysical and Ecological Overview of the Offshore Haida Gwaii Network Zones](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2025/2025_012-eng.pdf) K.H. Bannar-Martin, S.J.V. Zahner, K.H.T. Brown, C. McDougall, C.K. Robb, L. Burke, C. Du Preez, H. Gartner, C.G. Hannah, C. Bluteau, **A. Hilborn**, J.C. Iacarella, E.K. Lok, A. Liu, B. Proudfoot, A.R. Sastri, C. Stacey, and E.M. Rubidge. 2025. DFO Can. Sci. Advis. Sec. Res. Doc., 2025/012. xx + 263 p.
+-   [Why Deep-Water Dissolved Oxygen Is Higher in G̱andaawuu.ngaay Xyangs (Juan Perez Sound), Haida Gwaii, Than Other British Columbia Fjords.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021826) J. Jackson, A. Hare, C. Hannah, **A. Hilborn**, Skil Jáada, S. Page, S. Rosen, A. Timmerman, and L. Lee. 2025. Journal of Geophysical Research: Oceans, 130. doi: 10.1029/2024JC021826. doi:10.1029/2024JC021826
+-   [A sea surface temperature product for monitoring Marine Heatwaves in the Northeast Pacific.](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41282437.pdf) **A. Hilborn, L. Guan, D. Wan**, and A. Peña. 2025. Canadian Technical Report of Hydrography and Ocean Sciences. 394: v + 23 p.
+-   [Improving Satellite Chlorophyll-a Retrieval in the Turbid Waters of the Bay of Fundy, Canada.](https://doi.org/10.1007/s12237-024-01334-x) K.L. Wilson, **A. Hilborn**, S. Clay, and E. Devred. 2024. Estuaries and Coasts. doi:10.1007/s12237-024-01334-x
+-   [New tools for ADCP processing.](https://publications.gc.ca/collections/collection_2021/mpo-dfo/Fs97-18-336-eng.pdf) **H. Hourston, D. Wan, and L. Guan**. 2021. Canadian Technical Report of Hydrography and Ocean Sciences. 336: vi + 36 p.
 
 ### Datasets
 
-A few of the layers we have published are listed below. Some of the datasets listed here can also be found in the following online locations:
+A few of the layers we have published are listed below. Some of the datasets listed here can also be found in the [Canada Marine Planning Atlas](https://egisp.dfo-mpo.gc.ca/apps/pacific-atlas-pacifique/?locale=en), and the [Salish Sea Initiative](https://www.canada.ca/en/services/environment/cumulative-effect/about/salish-sea-ecosystem/sharing-knowledge.html).
 
-* [Canada Marine Planning Atlas](https://egisp.dfo-mpo.gc.ca/apps/pacific-atlas-pacifique/?locale=en)
-* [Salish Sea Initiative](https://www.canada.ca/en/services/environment/cumulative-effect/about/salish-sea-ecosystem/sharing-knowledge.html)
+#### Climatology layers:
 
-#### Climatologies
+-   [Satellite chlorophyll-a concentration monthly climatology](https://open.canada.ca/data/en/dataset/5a7d1e1b-edeb-4a32-b17f-2ef053ca22d5) of the Pacific Exclusive Economic Zone, **2003-2020** (1 km and 4km spatial resolution, MODIS-Aqua)
+-   [Satellite sea surface temperature monthly climatology](https://open.canada.ca/data/en/dataset/ecca47d7-835b-419f-91ae-ae4f601070a3) of the Pacific Exclusive Economic Zone, **2003-2020** (1 km, MODIS-Aqua)
+-   [Satellite sea surface temperature monthly climatology](https://open.canada.ca/data/en/dataset/cec45ade-3647-4aec-84f1-8cb68dd305c2) of the Pacific Exclusive Economic Zone, **1981-2010** (4 km, AVHRR)
+-   [Satellite sea surface temperature monthly climatology](https://open.canada.ca/data/en/dataset/a67df54b-286d-4eb6-9b38-474f1efe86db) of the Pacific Exclusive Economic Zone, **1990-2020** (4 km, AVHRR)
+-   [In situ temperature, Salinity and Sigma-t seasonal slimatologies](https://open.canada.ca/data/en/dataset/b2992072-0dca-452a-ac3e-b62176362bf4) of the Northeast Pacific Ocean, **1980-2010**
+-   [In situ temperature, Salinity and Sigma-t seasonal climatologies](https://open.canada.ca/data/en/dataset/d2f6e4fa-509f-4122-8e3c-95c388ec411c) of the Canadian Pacific Exclusive Economic Zone, **1980-2010**
 
-##### Satellite Chlorophyll-a Concentration: 
-* [Chlorophyll-a Concentration Monthly Climatology](https://open.canada.ca/data/en/dataset/5a7d1e1b-edeb-4a32-b17f-2ef053ca22d5) of the Pacific Exclusive Economic Zone, 2003-2020 (1 km and 4km spatial resolution, MODIS-Aqua)
+#### Long-term monitoring data:
 
-##### Satellite Sea Surface Temperature:
-* [Sea Surface Temperature Monthly Climatology](https://open.canada.ca/data/en/dataset/ecca47d7-835b-419f-91ae-ae4f601070a3) of the Pacific Exclusive Economic Zone, 2003-2020 (1 km, MODIS-Aqua)
-* [Sea Surface Temperature Monthly Climatology](https://open.canada.ca/data/en/dataset/cec45ade-3647-4aec-84f1-8cb68dd305c2) of the Pacific Exclusive Economic Zone, 1981-2010 (4 km, AVHRR)
-* [Sea Surface Temperature Monthly Climatology](https://open.canada.ca/data/en/dataset/a67df54b-286d-4eb6-9b38-474f1efe86db) of the Pacific Exclusive Economic Zone, 1990-2020 (4 km, AVHRR)
-
-##### Temperature, Salinity and Sigma-t
-* [Seasonal Climatologies](https://open.canada.ca/data/en/dataset/b2992072-0dca-452a-ac3e-b62176362bf4) of the Northeast Pacific Ocean (1980-2010)
-* [Seasonal Climatologies](https://open.canada.ca/data/en/dataset/d2f6e4fa-509f-4122-8e3c-95c388ec411c) of the Canadian Pacific Exclusive Economic Zone (1980-2010)
-
-#### Long-term Monitoring Data
-
-* [British Columbia Lightstation](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884) Sea-Surface Temperature and Salinity Data (Pacific) 1914-present
+-   [British Columbia Lightstation](https://open.canada.ca/data/en/dataset/719955f2-bf8e-44f7-bc26-6bd623e82884) Sea-Surface Temperature and Salinity Data (Pacific), **1914-present**

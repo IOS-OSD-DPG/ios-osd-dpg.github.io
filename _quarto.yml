@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  # announcement: 
-    # icon: info-circle
-    # dismissable: true
-    # content: "**Note** that this week's information is delayed due to an NCEI system outage"
-    # type: info
-    # position: below-navbar
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**Note** that this website is currently being updated! More information will be added soon."
+    type: info
+    position: below-navbar
   title: "Data Products Group"
   navbar:
     background: "#335075ff"
@@ -17,6 +17,10 @@ website:
         text: Home
       - href: data_publications.qmd
         text: Data and Publications
+    tools:
+      - icon: github
+        href: https://github.com/ios-osd-dpg/
+        aria-label: Data Products Group Github
   back-to-top-navigation: true
   reader-mode: true
   favicon: figures/1F30A.svg
@@ -41,7 +45,7 @@ format:
     link-external-newwindow: true
     linkcolor: "#335075ff"
 
-editor: visual
+editor: source
 lang: en
 
 execute:
